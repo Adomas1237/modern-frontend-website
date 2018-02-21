@@ -1,0 +1,18 @@
+[
+  { "id": 1, "picture": "/static/collections/Layer 25.png", "text": "Crotchet black playsuit", "price": "$77" },
+  { "id": 2, "picture": "/static/collections/Layer 26.png", "text": "Pull&bear utility detail playsuit", "price": "$31" },
+  { "id": 3, "picture": "/static/collections/Layer 27.png", "text": "Pull&bear aztec printed jumpsuit", "price": "$54" },
+  { "id": 4, "picture": "/static/collections/Layer 28.png", "text": "Pull&bear back playsuit", "price": "$47" },
+  { "id": 5, "picture": "/static/collections/Layer 29.png", "text": "Denim jacket", "price": "$54" },
+  { "id": 6, "picture": "/static/collections/Layer 30.png", "text": "Pull&bear back playsuit", "price": "$25" },
+  { "id": 7, "picture": "/static/collections/Layer 31.png", "text": "Pull&bear utility detail playsuit", "price": "$35" },
+  { "id": 8, "picture": "/static/collections/Layer 32.png", "text": "Crotchet black playsuit", "price": "$84" },
+  { "id": 9, "picture": "/static/collections/Layer 33.png", "text": "Denim jacket", "price": "$100" },
+  { "id": 10, "picture": "/static/collections/Layer 34.png", "text": "Pull&bear utility detail playsuit", "price": "$75" },
+  { "id": 11, "picture": "/static/collections/Layer 35.png", "text": "Pull&bear aztec printed jumpsuit", "price": "$52" },
+  { "id": 12, "picture": "/static/collections/Layer 36.png", "text": "Pull&bear aztec printed jumpsuit", "price": "$59" },
+  { "id": 13, "picture": "/static/collections/Photo1.png",   "text": "Pull&bear denim jacket", "price": "77" },
+  { "id": 14, "picture": "/static/collections/photo2.png",   "text": "Pull&bear utility detail playsuit", "price": "31" },
+  { "id": 15, "picture": "/static/collections/Photo3.png",   "text": "Pull&bear aztec printed jumpsuit", "price": "54" },
+  { "id": 16, "picture": "/static/collections/Photo4.png",   "text": "Pull&bear back playsuit", "price": "47" }
+]
